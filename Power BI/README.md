@@ -1,6 +1,17 @@
 ## Sales Insights Data Analysis Project
 # Problem Statement
 Create Dashboard to gether insights and increase sales in next quarter.
+# Power BI Dashboard
+1. Key Insights
+![key insights](https://github.com/shuklaharsh3009/sales-insigths/assets/100336788/a38979f4-6d1f-4662-bc1d-a4c51d0dcb67)
+
+2. Profit Analysis
+![Profit Analysis](https://github.com/shuklaharsh3009/sales-insigths/assets/100336788/589452bd-cd6f-41f0-9612-89df0b457c91)
+
+3. Performance Insights
+![performance insights](https://github.com/shuklaharsh3009/sales-insigths/assets/100336788/4024c0d8-bf02-4883-8e25-e911121c8a8a)
+
+ 
 ### Data Analysis Using SQL
 
 1. Show all customer records
